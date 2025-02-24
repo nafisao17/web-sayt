@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: azure;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    width: 250px;
+    background-color: aqua;
+    border: 1px solid;
+    height: 250px;
+    text-align: center;
+}
